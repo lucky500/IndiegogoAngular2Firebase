@@ -2,5 +2,9 @@
 @import '~@angular/material/prebuilt-themes/pink-bluegrey.css';
 
  body {
-  background-color: lightgray;
+  background-color: #ecf0f1;
+  font-family: "Benton Sans", "Helvetica", "sans-serif";
+  font-size: 14px;
+  color: #2a2a2a;
+  -webkit-font-smoothing: antialiased;
  }

@@ -2,3 +2,10 @@
   position: absolute;
   right: 0;
 }
+
+.logo {
+  color: #fff;
+  position: absolute;
+  top: 16px;
+  font-size: 22px;
+}

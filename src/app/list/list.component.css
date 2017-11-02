@@ -1,0 +1,40 @@
+.list-row {
+  margin-top: 200px;
+}
+
+.title {
+  font-family: "Benton Sans Medium";
+  font-size: 16px;
+  line-height: 21px;
+  font-weight: 600;
+}
+
+/*.card {
+  min-height: 650px;
+}
+
+.card-image {
+  margin-bottom: 30px;
+}
+
+.card-image img {
+  height: 270px;
+}
+
+
+.card-content {
+  height: 195px;
+}*/
+
+
+.card-action {
+  line-height: 10px;
+}
+
+.btn-contribute {
+  margin: 0 auto;
+}
+
+.valign-wrapper {
+  margin-top: 30px;
+}

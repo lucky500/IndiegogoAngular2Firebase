@@ -1,0 +1,70 @@
+.hero-outer {
+  background-image: url("../../assets/images/hero-bg.jpg");
+  margin-top: 0;
+  height: 468px;
+}
+
+.find-it-first-wrapper {
+  position: relative;
+  background-color: white;
+}
+
+.find-it-first {
+  position: absolute;
+  top: 80px;
+  right: 0;
+  height: 328px;
+  width: 595px;
+  z-index: 1;
+  padding-right: 80px;
+  background-color: white;
+  text-align: left;
+  /*display: flex;*/
+  justify-content: center;
+  padding: 30px 40px 40px 40px;
+}
+
+.find-it-first-title {
+  margin-bottom: 20px;
+  font-size: 44px;
+  font-family: 'Domine', serif;
+  font-weight: 550;  
+}
+
+.find-it-first-description {
+  margin-bottom: 25px;
+
+}
+
+.i-cta-1 {
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 14px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  cursor: pointer;
+  background-color: #eb1478;
+  border: 2px solid #eb1478;
+  padding: 11px 18px;
+  border-radius: 2px;
+  color: #fff;
+  text-align: center;
+  min-height: 40px;
+}
+
+.find-it-first-actions {
+  margin-top: 70px;
+}
+
+.find-it-first--first-child {
+  margin-right: 15px;
+}
+
+.find-it-first--last-child {
+  background-color: transparent;
+  color: #eb1478;
+}
+
+
+
+
